@@ -1,0 +1,15 @@
+build/
+*.o
+*.a
+*.so
+*.dylib
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.mlir
+*.weights.txt
+.idea/
+.vscode/
+cmake-build-*/
